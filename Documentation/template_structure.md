@@ -22,10 +22,12 @@ Post file for all page's single page template. By default all single content pag
 
 ###Comment.php
 You can make comment.php file to use any default style/layout for comment secton. Otherwise for comment, there are two function available. one is for showing comment: comment() and another is: comment_form(); 
+
 <ul>
-  <li>comment();
-  <li>comment_form();
-  
+  <li>comment()</li>
+  <li>comment_form()</li>
+</ul>  
+
 By the way, there is too many customization for comment() and comment_form() functions. will explain at function_documentaion page
 
 ###blog.php
