@@ -33,7 +33,7 @@ By the way, there is too many customization for comment() and comment_form() fun
 ###blog.php
 For details blog page, file will blog.php
 
-###any_file.php
+### [any_file.php]
 Actually all other any php file will use as template page. Just after makking any page from admin, you have to select other file name as template. site will show automatically by this page.
 
 
