@@ -21,14 +21,9 @@ You can make comment.php file to use any default style/layout for comment secton
 <ul>
   <li>comment();
   <li>comment_form();
+  
 By the way, there is too many customization for comment() and comment_form() functions. will explain at function_documentaion page
 
-  
-
-<ul>
-  <li>header.php [function:] get_header(); 
-  <li>footer.php [function:] get_footer(); 
-  <li>comment.php  [function:] get_comment();
 
 
 
