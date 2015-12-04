@@ -7,7 +7,7 @@ We have try to make a simple cms, where we can easilly make any core php site by
 Very asap, I will explain all details. Now I am working.
 
 ####details of codersaiful.com
-http://codersaiful.com
+http://99creative.net
 
 
 
