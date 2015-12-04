@@ -12,7 +12,7 @@ http://codersaiful.com
 
 
 ####First i would like to say: This script still under construction. Actually I am making script.
-@Actually I have also made a sample site by TinyPress. url: http://99creative.net Remember that: still TinyPress is under construction. So please don't hegitate to bookmark #TinyPress#
+@Actually I have also made a sample site by TinyPress. url: http://codersaiful.com Remember that: still TinyPress is under construction. So please don't hegitate to bookmark #TinyPress#
 
 ##Thanks to All 
 ####Saiful Islam
