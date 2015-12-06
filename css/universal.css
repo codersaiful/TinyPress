@@ -1,1 +1,31 @@
-universal.css
+/* Universal CSS sTyle for backEnd or admin panel*/
+*{box-sizing: border-box;font-family: helvetica,arial;color: #666;outline: none;transition: color 0.4s;}
+h1,h2,h3,h4,h5,h6,body{padding: 0;margin: 0;}
+a,h1:hover,h2:hover,h3:hover,h4:hover,h5:hover,h6:hover{color: #3FD04B;text-decoration: none;}
+
+a:hover,h1,h2,h3,h4,h5,h6{color: #049410;}
+.clear{clear: both;}
+
+
+/*all default*/
+input[type='text'],input[type='password']{border: 1px solid #BBBBBB;color: #2D2D2D;}
+input[type='text']:hover,input[type='password']:hover{border: 1px solid #999;color: #111;}
+input[type='button'],input[type='submit'],button,.button{cursor: pointer;background-color: #3fd04b;color: white;border: 1px solid #049410;padding: 5px 10px;margin: 5px 0;font-size: 12px;}
+input[type='button']:hover,input[type='submit']:hover,button:hover,.button:hover {background-color: #4EE25A;color: #035006;border: 1px solid #11B31E;}
+
+
+/*Grid System Grid for 10 */
+.col-1{width: 10%;float: left;}
+.col-2{width: 20%;float: left;}
+.col-3{width: 30%;float: left;}
+.col-4{width: 40%;float: left;}
+.col-5{width: 50%;float: left;}
+.col-6{width: 60%;float: left;}
+.col-7{width: 70%;float: left;}
+.col-8{width: 80%;float: left;}
+.col-9{width: 90%;float: left;}
+.col-10,col{width: 100%;}
+
+/*default padding for inside col*/
+.col-1>*,.col-2>*,.col-3>*,.col-4>*,.col-5>*,.col-6>*,.col-7>*,.col-8>*,.col-9>*,.col-10>*,.col>*{padding:1%;}
+.fix{overflow: hidden;}
