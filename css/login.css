@@ -1,1 +1,12 @@
-.header{border-bottom: 1px solid #eaeaea;padding: 15px;background: #F7F7F7;}
+*{box-sizing: border-box;font-family: helvetica,arial;}
+.login_page{}
+
+.login_wrapper{border: 1px solid #eaeaea;margin: 25px auto auto;max-width: 100%;padding: 15px;width: 277px;}
+.login_wrapper h1{border-bottom: 1px solid #eaeaea;padding-bottom: 10px;margin-bottom: 15px;}
+
+form.login_form p{margin: 2px 0;}
+form.login_form input{}
+form.login_form input[type='text']{}
+input.username,input.password,input.email,input.fullname,input.url{width: 100%;padding: 5px;margin: 2px 0;}
+form.login_form .password{}
+form.login_form .submit{}
